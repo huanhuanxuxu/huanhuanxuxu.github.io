@@ -35,9 +35,9 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : huahua
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : https://wallwiz.com/share/novembers-near/fall-leaves-on-trees-in-a-forest # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
